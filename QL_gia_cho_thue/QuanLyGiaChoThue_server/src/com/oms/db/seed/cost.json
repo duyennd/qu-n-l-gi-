@@ -1,0 +1,30 @@
+[
+	{
+		"type": "cost",
+		"id": "cost1",
+		"name":" xe đạp đơn thường",
+		"tienCoc":"400000",
+		"gia30pDau":10000,
+		"giaTang":3000
+		
+	},
+	{
+		"type": "cost",
+		"id": "cost2",
+		"name":" xe đạp đơn điện",
+		"tienCoc":700000,
+		"gia30pDau":15000,
+		"giaTang":4500
+	},
+	{
+		"type": "cost",
+		"id": "cost3",
+		"name":" xe đạp đôi thường",
+		"tienCoc":"550000",
+		"gia30pDau":15000,
+		"giaTang":4500
+	}
+]
+
+
+
